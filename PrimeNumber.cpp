@@ -23,4 +23,6 @@ int main(){
    cout<<"Not prime";
 
 return 0;
+  
+ //thanks for running :)
 }
